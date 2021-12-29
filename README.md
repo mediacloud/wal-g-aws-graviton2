@@ -3,7 +3,7 @@
 1. Launch a new ARM64 instance:
     * Ubuntu Server 20.04 LTS (HVM), SSD Volume Type
     * 64-bit (Arm)
-    * t4g.large
+    * t4g.2xlarge
     * 40 GB EBS volume
     * tags:
         * `Name: mediacloud-herewegoagain-build-arm64`
